@@ -1,4 +1,4 @@
-# HongCoin ICO Recovery — Eligible Addresses
+# HongCoin ICO Recovery: Eligible Addresses
 
 The HongCoin ICO contract (`0x9fa8fa61a10ff892e4ebceb7f4e0fc684c2ce0a9`) had 1,003 ETH stuck since 2016 due to a refund logic bug. The path to unblock it was disclosed to the project team, who executed the 41 unlock transactions on-chain on May 27, 2026.
 
